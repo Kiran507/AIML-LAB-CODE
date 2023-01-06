@@ -1,0 +1,4 @@
+Q1) Write a prolog program to solve the Tic-Tac-Toe puzzle be using a general utility function. Modify this program that accepts a heuristic function and apply cut-off based approach to prune some of the branches.
+
+Q2) Implement the minesweeper game to predict the presence of mine in a grid. If you land on a mine you will get hurt. The purpose is to clear all the mines in the grid without being affected.
+Take 5*5 grid and randomly generate 3 to 4 mines.
