@@ -1,0 +1,9 @@
+Shortest pasth for Travelling Salesman.
+
+Propositional logic to CNF.
+
+Implement resolution for propositional logic.
+
+resolve_pr([[p, not(r)], [not(p), not(q)]]).
+
+resolve_pr([[not(r), u], [not(u), not(w)], [r, not(w)]]).
